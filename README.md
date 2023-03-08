@@ -12,4 +12,4 @@ Internally, the app makes sure:
   - all the information displayed to the users is updated in real time (it takes into account delays)
   - reported delays are checked for validity
 
-There is no graphical interface for the project. As per the recieved specifications, I was to develop a server, the client being the bare minimum required for the app to function.
+There is no graphical interface for the project. As per the recieved specifications, I was to develop a server, the client being the bare minimum required for the app to work.
